@@ -22,7 +22,7 @@
   border: 7px solid darkgoldenrod;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 
   'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  margin: 10px 150px 10px;
+  margin: 10px 170px 10px;
   border-radius: 25px;
   padding: 20px;
   border-bottom: none ;
@@ -41,3 +41,6 @@
  #fb{
   text-align: center;
  }
+.live{
+  text-align: center;
+}
