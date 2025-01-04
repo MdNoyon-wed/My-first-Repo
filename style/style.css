@@ -12,6 +12,7 @@
   text-align: center;
   color: #8f5252;
   border: 10px dashed darkblue;
+  border-bottom: none ;
   box-shadow: 10px 30px 40px rgb(250, 114, 114);
   margin: 10px 400px 10px;
   border-radius: 25px;
