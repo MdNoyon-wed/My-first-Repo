@@ -8,3 +8,14 @@ h2{
   font-size: 30px;
   color: #fff;
 }
+.first{
+  text-align: center;
+  color: #de7d7d;
+  border: 10px dashed crimson;
+  margin: 10px 300px 10px 300px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+  'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  box-shadow: 10px 30px 30px darkblue;
+  padding: 20px;
+  border-radius: 20px;
+}
