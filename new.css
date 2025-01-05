@@ -28,6 +28,7 @@ html,body{
 
 }
 .h2{
+  text-align: center;
   color: #7a764d;
   text-decoration: underline;
   font-family: Arial, Helvetica, sans-serif;
@@ -35,4 +36,34 @@ html,body{
 #dolor{
   color: #bd6161;
   border: 2px solid yellowgreen;
+}
+.div form{
+  text-align: center;
+}
+.id{
+  text-align: center;
+  border: 10px solid darkred;
+  margin: 50px 350px 20px;
+  border-radius: 20px;
+  border-top: none;
+  border-bottom: none ;
+  box-shadow: 10px 20px 40px red;
+
+}
+.the{
+  text-align: center;
+  color: blue;
+  text-decoration:underline rgb(102, 60, 60);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 30px ;
+}
+#last{
+  color: brown;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border: 9px double rgb(255, 219, 18);
+  margin: 10px 100px 20px;
+  padding: 10px;
+  border-radius: 20px;
+  border-bottom: none;
+  box-shadow: 10px 30px 50px darkred;
 }
